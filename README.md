@@ -9,6 +9,13 @@ There are many advantages of servlet over CGI. The web container creates threads
 
 <img src="https://www.javatpoint.com/images/servlet.JPG">
 
+**The Servlet Container performs many operations that are given below:**
+
+- Life Cycle Management
+- Multithreaded support
+- Object Pooling
+- Security etc.
+
 
 
 
