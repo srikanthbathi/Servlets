@@ -1,2 +1,2 @@
 # Servlets
-[Important terms](/defs/README.md)
+[Important terms](./TERMS.md)
