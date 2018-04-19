@@ -2,6 +2,8 @@
 
 [Servlet container state](#state)
 
+[App Server vs Web Server](#app-vs-web-servers)
+
 
 
 ## Web Container 
@@ -32,3 +34,10 @@ The out-of-process containers are the containers which work in the JVM outside t
 In the case of out-of-process containers, web server and container talks with each other by using the some standard mechanism like IPC. 
 
 In addition to these types of containers, there is 3rd type which is stand-alone servlet containers. These are an integral part of the web server.
+
+## App vs Web Servers
+<img src="https://www.google.co.in/imgres?imgurl=https://realtimelogic.com/images/appserver-vs-webserver.jpg&imgrefurl=https://realtimelogic.com/products/web-server-vs-application-server/&h=724&w=1361&tbnid=JakytO8LVAytGM:&tbnh=112&tbnw=211&usg=__-11wuSTmJipfj72iPbJdT0DJCvU%3D&vet=10ahUKEwjwnfnwiMbaAhUKKo8KHfTQCrsQ9QEILDAA..i&docid=i_5hvygcXZqexM&sa=X&ved=0ahUKEwjwnfnwiMbaAhUKKo8KHfTQCrsQ9QEILDAA">
+
+
+
+
