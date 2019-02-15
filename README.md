@@ -16,6 +16,9 @@ There are many advantages of servlet over CGI. The web container creates threads
 - Object Pooling
 - Security etc.
 
+TCP UDP
+
+https://docs.spring.io/spring-integration/reference/html/ip.html
 
 
 
